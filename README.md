@@ -1,6 +1,5 @@
 # monetrum.org
 
-Monetrum Projesi Web Site Kodları.
 Web sitesi geçici olarak WordPress kullanılarak oluşturuldu.
 
 Monetrum için daha etkili ve faydalı bir web site tasarımı yaparak ödül alabilirisiniz.
