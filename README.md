@@ -11,5 +11,5 @@ Neler Olmalı?
 * Basit ve Sade bir tasarım anlayışı olmalı
 * Dökümantasyon yazabilmeyiz
 * Basit bir yönetici paneli olmalı
-* Yöneticilere rol tabanlı yetkiler verebilmeyizi
-* Çok dil desteği olmalı 
+* Yöneticilere rol tabanlı yetkiler verebilmeyiz
+* Çok dil desteği olmalı
